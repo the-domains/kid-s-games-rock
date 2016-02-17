@@ -1,0 +1,28 @@
+name: "Kid's Games Rock"
+favicon: null
+layout_spectrum: 0.31456811004318297
+typography_spectrum: 0.9694381111767143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.603520589414984
+  lightness: 0.3113226427230984
+  saturation: 0.7325213765725493
+  rhythmicContrast: 0.30467105749994516
+purpose: []
