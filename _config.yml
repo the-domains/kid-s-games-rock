@@ -1,4 +1,4 @@
-name: "Kid's Games Rock"
+name: "Kids' Games Rock"
 favicon: null
 layout_spectrum: 0.31456811004318297
 typography_spectrum: 0.9694381111767143
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#f7faff'
+    - '#53575a'
+    - '#b4a9ad'
+    - '#d6d2d3'
+    - '#9f836e'
   brandStrength: 0.603520589414984
   lightness: 0.3113226427230984
   saturation: 0.7325213765725493
