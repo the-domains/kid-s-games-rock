@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7325213765725493
+  saturation: 0.7325214
   brandStrength: 0.6630824
-  lightness: 0.3113226427230984
+  lightness: 0.8548387
   brandColors:
     - '#140F0F'
     - '#EAD6DA'
     - '#AB9B77'
     - '#273277'
     - '#EA2716'
-  rhythmicContrast: 0.3046710574999452
+  rhythmicContrast: 0.7777778
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: "Kids' Games Rock"
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9694381111767143
-layout_spectrum: 0.314568110043183
+typography_spectrum: 0.3136201
+layout_spectrum: 0.8315412
